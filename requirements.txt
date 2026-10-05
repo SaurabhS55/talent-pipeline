@@ -1,0 +1,9 @@
+requests
+python-dotenv
+sqlalchemy
+pymysql
+pydantic
+beautifulsoup4
+python-dateutil
+pytest
+python-jobspy>=1.2.0
